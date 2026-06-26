@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "chat.tools.terminal.terminalProfile.windows": {
+        "code-runner.runInTerminal": true
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}
